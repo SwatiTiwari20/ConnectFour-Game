@@ -16,4 +16,4 @@ Tasks:
 7. Implementing the view class with Controller class.
 8. Implementing the Game Launcher.
 
-Download the src file from the repo and run on VSCode to play ConnectFour game.
+Download the bin & src file from the repo and run on VSCode to play ConnectFour game.
